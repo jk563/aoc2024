@@ -11,3 +11,15 @@ fn part_one_example() {
 
     assert_eq!(actual_solution, expected_solution);
 }
+
+#[test]
+fn part_two_example() {
+    let expected_solution = 31;
+
+    let solver = Day01Solver {
+        input_path: String::from("tests/day-one-example-input.txt")
+    };
+    let actual_solution = solver.solve_part_two();
+
+    assert_eq!(actual_solution, expected_solution);
+}

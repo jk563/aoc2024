@@ -2,6 +2,7 @@
 
 | Puzzle Day | Part One | Part Two |
 | :---: | :---: | :---: |
-| 01 | :heavy_check_mark: | |
+| 01 | :heavy_check_mark: | :heavy_check_mark: |
 | 02 | | |
+| 03 | | |
 
