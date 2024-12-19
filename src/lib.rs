@@ -15,5 +15,6 @@ pub fn run() {
         input_path: String::from("puzzle-inputs/day02.txt")
     };
     println!("Day 02 Part One: {}", day_02_solver.solve_part_one());
+    println!("Day 02 Part Tne: {}", day_02_solver.solve_part_two());
 }
 
